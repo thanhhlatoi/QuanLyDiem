@@ -1,0 +1,43 @@
+{
+  "name": "helloshop",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "@fortawesome/free-regular-svg-icons": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/vue-fontawesome": "^3.0.6",
+    "@mdi/font": "7.0.96",
+    "ant-design-vue": "^4.2.5",
+    "antd": "^5.17.2",
+    "axios": "^1.6.8",
+    "bootstrap": "^5.2.0-beta1",
+    "cors": "^2.8.5",
+    "dayjs": "^1.11.11",
+    "express": "^4.21.0",
+    "instascan": "^1.0.0",
+    "moment": "^2.30.1",
+    "pinia": "^2.1.7",
+    "roboto-fontface": "*",
+    "vietqr": "^1.1.9",
+    "vue": "^3.4.27",
+    "vue-request": "^2.0.4",
+    "vue-router": "^4.3.2",
+    "vuetify": "^3.5.0",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "sass": "^1.71.1",
+    "unplugin-fonts": "^1.1.1",
+    "unplugin-vue-components": "^0.26.0",
+    "vite": "^5.1.5",
+    "vite-plugin-vuetify": "^2.0.3"
+  }
+}
